@@ -41,7 +41,7 @@
   "responsiveBehavior": "fill",
   "rightColumn": 31,
   "shouldTruncate": false,
-  "text": "{{inputs.date_of_birth}}",
+  "text": "{{moment(inputs.date_of_birth).format('LL')}}",
   "textAlign": "LEFT",
   "textColor": "#18181b",
   "topRow": 13,
