@@ -1,0 +1,47 @@
+{
+  "gitSyncId": "6840178836f5307df7a076fd_d4894b2d-2be7-4d44-be72-bb5df4a5e2e5",
+  "moduleUUID": "d9c8a1a5-9989-4a29-851e-22876284c7a7",
+  "type": "UI_MODULE",
+  "unpublishedModule": {
+    "inputsForm": [
+      {
+        "children": [],
+        "id": "bkaubmlyoc",
+        "sectionName": ""
+      }
+    ],
+    "layouts": [
+      {
+        "dsl": {
+          "backgroundColor": "none",
+          "bottomRow": 579,
+          "canExtend": true,
+          "containerStyle": "none",
+          "detachFromLayout": true,
+          "dynamicBindingPathList": [],
+          "dynamicTriggerPathList": [],
+          "leftColumn": 0,
+          "minHeight": 609,
+          "parentColumnSpace": 1,
+          "parentRowSpace": 1,
+          "rightColumn": 1242,
+          "snapColumns": 64,
+          "snapRows": 124,
+          "topRow": 0,
+          "type": "CANVAS_WIDGET",
+          "version": 94,
+          "widgetId": "0",
+          "widgetName": "MainContainer"
+        }
+      }
+    ],
+    "name": "QueryJS",
+    "outputsForm": [
+      {
+        "children": [],
+        "id": "aahbymtjgx",
+        "sectionName": ""
+      }
+    ]
+  }
+}
