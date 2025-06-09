@@ -1,0 +1,13 @@
+{
+  "gitSyncId": "6842d6412578d477ab133c9d_daa7676b-bd7a-40fc-9c9c-8d0576927912",
+  "id": "QueryJS_JSObject1",
+  "isPublic": false,
+  "unpublishedCollection": {
+    "contextType": "MODULE",
+    "moduleId": "QueryJS",
+    "name": "JSObject1",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": []
+  }
+}
