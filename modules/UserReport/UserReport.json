@@ -6,6 +6,9 @@
     "dynamicBindingPathList": [
       {
         "key": "outputsForm[0].children[0].value"
+      },
+      {
+        "key": "outputsForm[0].children[1].value"
       }
     ],
     "inputsForm": [
@@ -65,6 +68,13 @@
             "label": "selectedRow",
             "propertyName": "outputs.selectedRow",
             "value": "{{Table1222.selectedRow}}"
+          },
+          {
+            "controlType": "INPUT_TEXT",
+            "id": "wlypceqqgs",
+            "label": "newop",
+            "propertyName": "outputs.newop",
+            "value": "{{Table1222.pageOffset}}"
           }
         ],
         "id": "ltveolqglv",
