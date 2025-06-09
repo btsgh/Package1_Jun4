@@ -67,14 +67,14 @@
             "id": "lfsgfkbqwx",
             "label": "selectedRow",
             "propertyName": "outputs.selectedRow",
-            "value": "{{Table1222.selectedRow}}"
+            "value": "{{Table1.selectedRow}}"
           },
           {
             "controlType": "INPUT_TEXT",
             "id": "wlypceqqgs",
             "label": "newop",
             "propertyName": "outputs.newop",
-            "value": "{{Table1222.pageOffset}}"
+            "value": "{{Table1.pageOffset}}"
           }
         ],
         "id": "ltveolqglv",
