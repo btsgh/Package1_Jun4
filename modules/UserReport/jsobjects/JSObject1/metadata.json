@@ -1,0 +1,22 @@
+{
+  "gitSyncId": "684185934189532fc845b159_e1398c4a-83f3-4524-8258-e66a211b8cf3",
+  "id": "UserReport_JSObject1",
+  "isPublic": false,
+  "unpublishedCollection": {
+    "contextType": "MODULE",
+    "moduleId": "UserReport",
+    "name": "JSObject1",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[]"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      }
+    ]
+  }
+}
